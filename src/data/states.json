@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "state": "Delhi",
+    "description": "Delhi, the capital of India, blends history, culture, and modern attractions.",
+    "places_to_visit": [
+      {
+        "name": "Red Fort",
+        "description": "Historic Mughal fort in Old Delhi, UNESCO World Heritage site. Built in 1638 by Shah Jahan, it served as the main residence of the Mughal emperors for nearly 200 years. Features massive red sandstone walls, intricate marble inlays, and beautiful gardens.",
+        "tips": "Visit early morning to avoid crowds. Don’t miss the evening sound and light show. Wear comfortable shoes for exploring the grounds.",
+        "nearby": "Chandni Chowk (famous market), Jama Masjid (one of the largest mosques in India)."
+      },
+      {
+        "name": "Qutub Minar",
+        "description": "Qutub Minar is a towering victory minaret in the Mehrauli area of Delhi, standing at about 72.5 meters high. Construction started around 1199 AD under Qutb-ud‑din Aibak, the first Sultan of Delhi, and was later continued by Iltutmish. The complex is a UNESCO World Heritage Site. Architecturally, it features finely carved red sandstone and marble, with inscriptions in Arabic and decorative geometric patterns. The minaret has five distinct storeys; each storey has a projecting balcony supported by ornate brackets. Over centuries, it suffered damage from lightning and earthquakes and was restored multiple times. The Qutub Minar is part of the larger Qutub Complex, which includes the Quwwat-ul-Islam Mosque, the Iron Pillar, tombs of Iltutmish and Alauddin Khalji, and several other historically significant structures. The surrounding area is preserved as the Mehrauli Archaeological Park, which has over 50 monuments built across different eras.",
+        "tips": "Visit early in the morning to avoid the crowds and the heat. Hire a guide who can explain the inscriptions, the iron pillar, and the other monuments in the complex. Wear comfortable walking shoes — the complex is quite spread out and involves walking over uneven terrain.",
+        "nearby": "Mehrauli Archaeological Park, Quwwat‑ul‑Islam Mosque, Iron Pillar"
+      },
+      {
+        "name": "India Gate",
+        "description": "India Gate is a monumental archway in New Delhi, designed by British architect Sir Edwin Lutyens. It was built to commemorate the Indian soldiers who died during World War I and the Third Anglo-Afghan War; over 13,000 names of soldiers are inscribed on the memorial. The structure is made of red and buff sandstone and stands about 42 meters tall. Originally, there was a bowl at the top meant to be filled with oil and lit on ceremonial days, but this is no longer done; instead, an eternal flame — the Amar Jawan Jyoti — was later added at its base after the 1971 Indo‑Pak war. India Gate is built in a classical style and is often compared to the Arc de Triomphe in Paris. The monument stands on a large plaza and is surrounded by expansive lawns, making it a popular spot for picnics and evening walks.",
+        "tips": "Evening is the ideal time to visit India Gate — the monument is illuminated beautifully and the lawns come alive with locals relaxing. Bring some snacks or a picnic, but also carry a dustbin bag to keep the area clean. For photographers, the lighting at dusk offers a gorgeous backdrop.",
+        "nearby": "Rashtrapati Bhavan, Connaught Place, National War Memorial"
+      }
+    ],
+    "food": [
+      {
+        "name": "Chole Bhature",
+        "description": "Chole Bhature is a signature dish of North India and particularly iconic in Delhi’s food culture. It consists of spicy chickpea curry (chole) paired with deep‑fried puffed breads (bhature). The dish became popular in Delhi in the 1940s with Punjabi migrants and is a widely enjoyed comfort food.",
+        "recipe_tip": "Soak chickpeas overnight and pressure-cook until soft. Prepare bhature dough with yogurt, let it rest, and deep-fry before serving. Serve with raw onions, pickles, green chutney, and lassi.",
+        "cuisine": "North Indian / Punjabi"
+      },
+      {
+        "name": "Paranthe",
+        "description": "‘Paranthe Wali Gali’ in Chandni Chowk is famous for its stuffed parathas, including aloo, gobi, paneer, and even sweet fillings like rabri. This heritage food lane dates back to the late 1800s and remains a culinary landmark.",
+        "recipe_tip": "Prepare soft whole-wheat dough and stuff with seasoned fillings. Roll gently and shallow-fry or deep-fry in ghee. Serve hot with mint/tamarind chutneys and pickles.",
+        "cuisine": "North Indian / Traditional Delhi"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "state": "Tamil Nadu",
+    "description": "Tamil Nadu, the southern jewel of India, is known for its ancient temples, classical arts, pristine beaches, and rich culinary heritage. It has a history that dates back over 2,000 years and boasts a unique blend of Dravidian architecture and cultural traditions.",
+    "places_to_visit": [
+      {
+        "name": "Meenakshi Temple",
+        "description": "Located in Madurai, the Meenakshi Temple is one of the most iconic temples of South India, dedicated to Goddess Meenakshi and Lord Sundareswarar. The temple is renowned for its stunning Dravidian architecture, colorful gopurams (towers), intricate carvings, and sculptures. It is a significant religious and cultural hub, attracting thousands of pilgrims and tourists each year.",
+        "tips": "Respect temple rules and dress modestly. Hire a guide to understand the rich history and symbolism of the sculptures and carvings.",
+        "nearby": "Thirumalai Nayakar Palace, Vandiyur Mariamman Teppakulam"
+      },
+      {
+        "name": "Mahabalipuram",
+        "description": "Mahabalipuram, also called Mamallapuram, is a UNESCO World Heritage site famous for its rock-cut temples, monolithic rathas (chariots), and intricately carved sculptures. Dating back to the Pallava dynasty (7th–8th century), it is a showcase of ancient South Indian art and architecture. The Shore Temple overlooking the Bay of Bengal is a highlight, particularly during sunset.",
+        "tips": "Visit the Shore Temple during sunset for stunning views. Explore the rock carvings and local artisan shops.",
+        "nearby": "Chennai, Tiger Cave, Krishna's Butterball"
+      },
+      {
+        "name": "Marina Beach",
+        "description": "Marina Beach in Chennai is the longest urban beach in India, stretching over 13 km. It is a popular destination for evening strolls, kite flying, and street food. The beach is also home to historical monuments like the Chennai Lighthouse and memorials dedicated to prominent leaders.",
+        "tips": "Evening visits are ideal for cooler temperatures and local activities. Try popular snacks like sundal, murukku, and ice gola.",
+        "nearby": "Fort St. George, MGR Memorial, Santhome Basilica"
+      }
+    ],
+    "food": [
+      {
+        "name": "Dosa",
+        "description": "Dosa is a fermented rice and urad dal crepe that is crispy on the outside and soft inside. Originating from Tamil Nadu, it is a staple breakfast and is served with coconut chutney, sambar, and sometimes a variety of fillings like masala potatoes. It has a history dating back to ancient South Indian cuisine and remains an internationally recognized dish.",
+        "recipe_tip": "Ensure the batter is fermented for 8–12 hours. Spread thin on a hot griddle, drizzle ghee, and serve immediately with chutney and sambar.",
+        "cuisine": "South Indian"
+      },
+      {
+        "name": "Pongal",
+        "description": "Pongal is a comforting South Indian rice and lentil dish, commonly made in two variations: Ven Pongal (savory) and Sakkarai Pongal (sweet). Ven Pongal is flavored with black pepper, cumin, ghee, and cashews, while Sakkarai Pongal is prepared with jaggery, ghee, and dry fruits. It is also an integral dish during the Pongal harvest festival.",
+        "recipe_tip": "Cook rice and lentils together until soft. Add tempered spices and ghee for Ven Pongal. For Sakkarai Pongal, cook with jaggery and garnish with roasted nuts.",
+        "cuisine": "South Indian"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "state": "Karnataka",
+    "description": "Karnataka is renowned for its rich heritage, majestic palaces, coffee plantations, and vibrant cultural traditions. From ancient ruins to royal architecture, it offers a unique mix of history, nature, and cuisine.",
+    "places_to_visit": [
+      {
+        "name": "Hampi",
+        "description": "Hampi is an ancient village in Karnataka, home to the ruins of the Vijayanagara Empire. It is a UNESCO World Heritage Site featuring remarkable temples, stone chariots, and intricate carvings. Hampi is a paradise for history enthusiasts and photographers.",
+        "tips": "Wear comfortable shoes, carry water, and explore the ruins early in the morning or late afternoon to avoid heat.",
+        "nearby": "Virupaksha Temple, Vittala Temple, Lotus Mahal"
+      },
+      {
+        "name": "Mysore Palace",
+        "description": "Mysore Palace is a majestic royal residence of the Wodeyar dynasty in Mysore. Known for its grand architecture, ornate interiors, and evening illumination, it is one of the most visited tourist attractions in India.",
+        "tips": "Visit in the evening to see the palace beautifully lit. Guided tours help understand the history and heritage.",
+        "nearby": "Chamundi Hill, St. Philomena's Church, Brindavan Gardens"
+      },
+      {
+        "name": "Coorg",
+        "description": "Coorg, also called Kodagu, is a picturesque hill station known for coffee plantations, waterfalls, and lush greenery. It is ideal for nature lovers, offering trekking, wildlife spotting, and cultural experiences of the Kodava community.",
+        "tips": "Best visited during monsoon for lush landscapes. Carry warm clothing and insect repellents.",
+        "nearby": "Abbey Falls, Raja's Seat, Talakaveri"
+      }
+    ],
+    "food": [
+      {
+        "name": "Maddur Vada",
+        "description": "Maddur Vada is a savory snack from Maddur, Karnataka. Crispy on the outside and soft inside, it is made of rice flour, semolina, onions, curry leaves, and green chilies. It is famous as a railway station snack and a Karnataka specialty.",
+        "recipe_tip": "Combine rice flour, semolina, onions, and spices. Flatten the dough into patties and deep-fry until golden. Serve with coconut chutney.",
+        "cuisine": "Karnataka"
+      },
+      {
+        "name": "Mysore Pak",
+        "description": "Mysore Pak is a rich, melt-in-the-mouth sweet made from gram flour, sugar, and ghee. Originating in the royal kitchens of Mysore Palace, it has become an iconic Karnataka dessert, known for its luxurious texture and taste.",
+        "recipe_tip": "Cook besan, sugar, and ghee slowly until the mixture leaves the sides of the pan. Pour into a greased tray and cut into cubes when set.",
+        "cuisine": "Karnataka"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "state": "Kerala",
+    "description": "Kerala, 'God's Own Country,' is famous for its serene backwaters, hill stations, lush greenery, and traditional cuisine. It is a perfect blend of nature, culture, and culinary delights.",
+    "places_to_visit": [
+      {
+        "name": "Alleppey Backwaters",
+        "description": "Alleppey Backwaters offer tranquil canals and lagoons surrounded by coconut palms and paddy fields. Houseboat cruises are a popular way to experience the scenic beauty, local villages, and traditional Kerala lifestyle.",
+        "tips": "Take sunrise or sunset boat rides for the best experience. Book a houseboat with local cuisine included.",
+        "nearby": "Kumarakom, Marari Beach"
+      },
+      {
+        "name": "Munnar",
+        "description": "Munnar is a hill station in Kerala famous for tea gardens, misty hills, and cool climate. It is home to the Eravikulam National Park, where the endangered Nilgiri Tahr resides, and several tea museums showcasing plantation history.",
+        "tips": "Visit early in the morning to enjoy the misty hills. Carry warm clothing.",
+        "nearby": "Eravikulam National Park, Mattupetty Dam"
+      },
+      {
+        "name": "Fort Kochi",
+        "description": "Fort Kochi is a historic coastal town with colonial architecture, Chinese fishing nets, and vibrant cafes. It reflects the influence of the Portuguese, Dutch, and British over centuries and is popular for cultural festivals and art galleries.",
+        "tips": "Walk along the promenade to see Chinese fishing nets and local street art. Explore cafes and souvenir shops.",
+        "nearby": "Mattancherry Palace, St. Francis Church"
+      }
+    ],
+    "food": [
+     {
+  "name": "Puttu & Kadala Curry",
+  "description": "Steamed rice flour cylinders (Puttu) served with spicy black chickpea curry (Kadala Curry), a traditional Kerala breakfast.",
+  "image": "appam.png",
+  "recipe_tip": "Serve hot with coconut chutney or banana for an authentic taste."
+},
+      {
+        "name": "Kerala Sadya",
+        "description": "Kerala Sadya is a traditional feast served on a banana leaf during festivals and special occasions. It includes a variety of dishes like rice, sambar, avial, thoran, pickles, pappadam, and ends with sweet payasam. Each dish reflects Kerala's culinary diversity and balance of flavors.",
+        "recipe_tip": "Serve on a fresh banana leaf. Include all key dishes and enjoy in a specific sequence from mild to spicy to sweet.",
+        "cuisine": "Kerala"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "state": "Pondicherry",
+    "description": "Pondicherry, a coastal union territory, combines French colonial architecture, pristine beaches, and spiritual communities. Its unique blend of Indian and French cultures is reflected in its cuisine, lifestyle, and townscape.",
+    "places_to_visit": [
+      {
+        "name": "Promenade Beach",
+        "description": "Promenade Beach is a scenic seaside walkway in Pondicherry, ideal for morning or evening strolls. It is dotted with statues, memorials, and benches, and offers views of the Bay of Bengal. The area comes alive in the evenings with locals exercising and tourists enjoying the breeze.",
+        "tips": "Visit during sunset for spectacular views. Try local snacks like sundal and fresh coconut water.",
+        "nearby": "French War Memorial, Gandhi Statue"
+      },
+      {
+        "name": "Auroville",
+        "description": "Auroville is an international township dedicated to human unity, spirituality, and sustainable living. Established in 1968 near Pondicherry, its centerpiece is the golden-domed Matrimandir, which serves as a meditation center for visitors from around the world.",
+        "tips": "Book in advance to enter the Matrimandir viewing gallery. Explore eco-friendly workshops and community farms.",
+        "nearby": "Bharatiya Vidya Bhavan, Serenity Beach"
+      },
+      {
+        "name": "French Quarter",
+        "description": "The French Quarter, also known as White Town, features colonial-era streets, colorful houses with bougainvillea, quaint cafes, and art galleries. Walking tours offer insights into Pondicherry's French heritage and contemporary cultural scene.",
+        "tips": "Take a guided walking tour to learn about the architecture and history. Visit local cafes for French-inspired delicacies.",
+        "nearby": "Sri Aurobindo Ashram, Bharati Park"
+      }
+    ],
+    "food": [
+      {
+        "name": "French Pastries",
+        "description": "French pastries in Pondicherry include croissants, baguettes, éclairs, and tarts, baked fresh in local bakeries influenced by French culinary traditions. They are a specialty in the French Quarter and often combined with Indian flavors.",
+        "recipe_tip": "Try freshly baked items from bakeries early in the morning for the best texture and flavor.",
+        "cuisine": "French / Pondicherry"
+      },
+      {
+        "name": "Seafood",
+        "description": "Seafood in Pondicherry is prepared using fresh catch from the Bay of Bengal, often spiced with local herbs, coconut, and sometimes French techniques. Dishes include prawn curry, crab masala, fish stew, and more.",
+        "recipe_tip": "Eat at seaside restaurants for fresh preparations. Pair with steamed rice or French bread.",
+        "cuisine": "Pondicherry / Coastal"
+      }
+    ]
+  }
+]
+
+
+
