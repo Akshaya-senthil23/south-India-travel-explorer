@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+## South Indian Travel Explorer:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 1.Setup Steps:
 
-## Available Scripts
+-> Clone the repository
+      git clone https://github.com/Akshaya-senthil23/south-India-travel-explorer.git
+      cd south-India-travel-explorer
+-> Install dependencies
+      npm install
+-> Installs all required packages including React, React Router, and Bootstrap.
+->Run in development mode
+      npm start
+-> The app runs on http://localhost:3000
+-> Build for production
+      npm run build
+-> Creates an optimized production-ready build in the build/ folder.
+-> Deploy to Render
+      Push the code to GitHub.
+      Create a Static Site in Render.
+      Connect your GitHub repository and select main branch.
+      Set build command as npm run build and publish directory as build.
+      Your live app URL will be something like: https://south-india-travel-explorer-11.onrender.com
 
-In the project directory, you can run:
+## 2.Tech Stack Used:
 
-### `npm start`
+Frontend Framework : React.js (Create React App)
+Routing            : React Router DOM
+Styling            : Bootstrap 5 + Custom CSS
+Data               : JSON files (states.json)
+Images             : Local asset images imported into components
+Deployment         : Render
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 3.Screenshots or Short Screen Recording:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Link:https://drive.google.com/drive/folders/1KnQyEOiq80kua_tJQCCN4_QkHZa0azF4?usp=sharing
 
-### `npm test`
+## 4.Assumptions or Bonus Features Implemented:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Assumptions:
 
-### `npm run build`
+->All content is static and fetched from JSON files.
+->Images for states, places, and food exist locally.
+->No backend or database is required for this assignment.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Bonus Features:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+->Fully responsive design for desktop and mobile.
+->Smooth hover effects on cards.
+->Interactive pages: Food and Places show detailed content when clicked.
+->Custom gradient backgrounds for better UI.
+->Placeholder images for missing assets.
+->Deployed live on Render: https://south-india-travel-explorer-11.onrender.com
